@@ -24,4 +24,6 @@ def calcular_fatorial():
 
     print(fatorial, "\n")
 
+
+
 calcular_fatorial()
