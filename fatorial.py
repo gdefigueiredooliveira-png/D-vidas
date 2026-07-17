@@ -3,7 +3,11 @@ while True:
         numero=int(input('Digite um número: '))
         break
     except:
-        print('Digite Apenas Números!!!!!!!!!!!!!!!!!!!!!!!!')
+        print("+---------------------------------------------+")
+        print('|                                             |')
+        print('|             DIGITE APENAS NÚMEROS           |')
+        print('|                                             |')
+        print("+---------------------------------------------+")
 
 fatorial=1
 print(f'\nCálculo de {numero}:')
