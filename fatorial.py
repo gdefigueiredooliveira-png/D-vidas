@@ -23,7 +23,3 @@ def calcular_fatorial():
             print(" = ", end="")
 
     print(fatorial, "\n")
-
-
-
-calcular_fatorial()
